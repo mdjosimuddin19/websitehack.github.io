@@ -1,0 +1,35 @@
+  *{
+      text-align: center;
+    }
+      body{
+        background-image: url('https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.gif');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100% 100%;
+      }
+      #imgbg{
+        width: 16px 9px;
+        
+        padding: 10% 1%;
+        
+        margin: auto;
+        height: 20px;
+  }
+  #hack{
+    color: #02d428;
+    font-size: 15px;
+    font-style:italic;
+    font-weight: bold;
+    font-family: Verdana;
+    
+  }
+  #admin{
+    color:#4a6dd0;
+    font-size: 20px;
+    
+    
+  }
+  #admin img{
+    height: 10% ;
+    width: 10%;;
+  }
