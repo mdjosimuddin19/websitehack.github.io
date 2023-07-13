@@ -1,1 +1,1 @@
-# websitehack.github.io
+this is just for educational purpos 
